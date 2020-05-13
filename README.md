@@ -1,0 +1,1 @@
+A node that contains a LoRa transciever and a WiFi module, for sending data to the cloud (Cloudino).
